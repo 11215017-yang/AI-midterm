@@ -1,4 +1,7 @@
 Google Colab 使用教程：MNIST 手寫數字辨識
+
+報告人:黃勝揚 學號11215017
+
 一、期中報告介紹
 
 主要介紹 Google Colab 的基本使用方式，並透過 TensorFlow 建立 MNIST 手寫數字辨識模型，實際體驗深度學習的訓練與預測過程。
